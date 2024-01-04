@@ -1,0 +1,5 @@
+com\ezequielbolzi\rest\Repository\NoteRepository.class
+com\ezequielbolzi\rest\RestApplication.class
+com\ezequielbolzi\rest\Model\Note.class
+com\ezequielbolzi\rest\Controller\NoteController.class
+com\ezequielbolzi\rest\Service\NoteService.class
